@@ -1,3 +1,6 @@
+# User specific stuff
+config-prod.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -121,8 +124,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
+# Environemnts
 .venv
 env/
 venv/
